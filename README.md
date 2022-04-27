@@ -1,5 +1,5 @@
 A scientific calculator is an electronic device which is used to calculate and solve mathematics and science problems. This type of calculator operates just like a standard calculator with the addition of some more advanced features. These calculators are used in the study of mathematics, science, engineering and others.
-Visual Overview:
+Visual Overview :
 
 
 
